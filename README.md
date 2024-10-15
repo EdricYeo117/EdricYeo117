@@ -1,7 +1,10 @@
 # 💫 About Me:
 My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic for Diploma in Information Technology (N54) 
+<br>
 ✨ Recycling Oxygen since 12/10/2001
+<br>
 📚 Hobbies: Gaming & Gym
+<br>
 🎯 Goals: Financial Stabality 
 
 📫 How to reach me - edricyeo.jr@gmail.com
