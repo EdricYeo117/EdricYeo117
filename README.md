@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi 👋, I'm Yeo Jin Rong<br>A passionate student at Ngee Ann Polytechnic studying for a Diploma in Information Technology (N54)!<br><br>📫 How to reach me - edricyeo.jr@gmail.com<br>👨‍💻 Visit my website at - https://edricyeo117.github.io/<br><br>🌱 Key Projects:<br>1) NutriAid BackEndDev Project - https://github.com/Koyonari/BED2024Apr_P03_T05<br> 2) PocketChef Application - https://github.com/enjiawu/MAD24_P02_Team1<br>
+My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic for Diploma in Information Technology (N54) 
+✨ Recycling Oxygen since 12/10/2001
+📚 Hobbies: Gaming & Gym
+🎯 Goals: Financial Stabality 
+
+📫 How to reach me - edricyeo.jr@gmail.com
+👨‍💻 Visit my website at - https://edricyeo117.github.io/
+
+🌱 Key Projects:
+1) NutriAid BackEndDev Project - https://github.com/Koyonari/BED2024Apr_P03_T05
+2) PocketChef Application - https://github.com/enjiawu/MAD24_P02_Team1
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SPARTAN117312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yjr117/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-rong-yeo-83996b272/) 
