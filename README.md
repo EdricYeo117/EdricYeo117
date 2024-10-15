@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Yeo Jin Rong<br>A passionate student at Ngee Ann Polytechnic studying for a Diploma in Information Technology (N54)!<br><br>📫 How to reach me - edricyeo.jr@gmail.com<br>👨‍💻 Visit my website at - https://edricyeo117.github.io/<br><br>🌱 Key Projects:<br>1) NutriAid BackEndDev Project<br>2) PocketChef Application<br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/SPARTAN117312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yjr117/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jin-rong-yeo-83996b272/) 
 
