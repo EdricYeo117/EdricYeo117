@@ -43,6 +43,9 @@ Hi 👋, I'm Yeo Jin Rong<br>A passionate student at Ngee Ann Polytechnic studyi
 ## Machine Learning/ Artificial Intelligence
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## Mobile App Development
+![Android](<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EdricYeo117&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdricYeo117&theme=dark&hide_border=false)<br/>
