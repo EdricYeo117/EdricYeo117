@@ -7,7 +7,7 @@ My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic f
 <br>
 🎯 Goals: Financial Stabality 
 
-📫 How to reach me - edricyeo.jr@gmail.com
+📫 How to reach me - edricyeo.jr@gmail.com <br>
 👨‍💻 Visit my website at - https://edricyeo117.github.io/
 
 🌱 Key Projects:
