@@ -13,6 +13,7 @@ My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic f
 🌱 Key Projects:
 1) NutriAid BackEndDev Project - https://github.com/Koyonari/BED2024Apr_P03_T05
 2) PocketChef Application - https://github.com/enjiawu/MAD24_P02_Team1
+3) MyCondoApp Database Design - https://github.com/EdricYeo117/T03_Group1_Database
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SPARTAN117312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yjr117/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-rong-yeo-83996b272/) 
