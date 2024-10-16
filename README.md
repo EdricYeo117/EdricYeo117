@@ -8,7 +8,8 @@ My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic f
 🎯 Goals: Financial Stabality 
 
 📫 How to reach me - edricyeo.jr@gmail.com <br>
-👨‍💻 Visit my website at - https://edricyeo117.github.io/
+👨‍💻 Visit my website at - https://edricyeo117.github.io/ <br>
+On my website you can view all of my projects!
 
 🌱 Key Projects:
 1) [NutriAid BackEndDev Project](https://github.com/Koyonari/BED2024Apr_P03_T05)
