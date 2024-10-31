@@ -10,7 +10,8 @@ My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic f
 📫 How to reach me - edricyeo.jr@gmail.com <br>
 👨‍💻 Visit my website at - https://edricyeo117.github.io/ <br>
 On my website you can view all of my projects!
-
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SPARTAN117312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yjr117/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeo-jin-rong/) 
 ---
 ## 🌱 Key Projects
 
@@ -42,9 +43,6 @@ On my website you can view all of my projects!
 - **Tech Stack**: AERN (AWS, Express, React, Node.js)
 - **Features**: Stay Tuned!
 ---
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SPARTAN117312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yjr117/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeo-jin-rong/) 
 
 # 💻 Tech Stack:
 ## Front-End Development
