@@ -11,14 +11,40 @@ My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic f
 👨‍💻 Visit my website at - https://edricyeo117.github.io/ <br>
 On my website you can view all of my projects!
 
-🌱 Key Projects:
-1) [NutriAid BackEndDev Project](https://github.com/Koyonari/BED2024Apr_P03_T05)
-2) [PocketChef Application](https://github.com/enjiawu/MAD24_P02_Team1)
-3) [MyCondoApp Database Design](https://github.com/Ng-Kai-Huat-Jason/T03_Group1_Database)
-4) [Software Analysis Design Project](https://github.com/Ng-Kai-Huat-Jason/SWAD_P03_GroupE)
+---
+## 🌱 Key Projects
+
+### 1. [NutriAid BackEndDev Project](https://github.com/Koyonari/BED2024Apr_P03_T05)
+**Description**: This backend project aims to connect the underprivelleged and volunteers, facilitating recipe generation and food donation. Designed with scalability in mind, it includes role-based user authentication, secure data storage, and API endpoints for managing dietary data and delivering recommendations.
+
+- **Tech Stack**: Node.js, Express, MongoDB, MSSQL
+- **Features**: Secure role-based user authentication, noSQL and SQL database integration
+
+### 2. [PocketChef Application](https://github.com/enjiawu/MAD24_P02_Team1)
+**Description**: PocketChef is a mobile app that brings personalized recipe recommendations to your fingertips. It helps users plan meals, track ingredients, and discover recipes based on preferences and available ingredients. Powered by Spoonacular API
+
+- **Tech Stack**: Java (Android Studio)
+- **Features**: Recipe Search, Image Classification, Voice Search
+
+### 3. [MyCondoApp Database Design](https://github.com/Ng-Kai-Huat-Jason/T03_Group1_Database)
+**Description**: This project involves designing a comprehensive database for MyCondoApp, a platform dedicated to property management. The database schema supports user roles, facility booking, maintenance tracking, and notification management.
+
+- **Tech Stack**: MSSQL
+
+### 4. [Software Analysis Design Project](https://github.com/Ng-Kai-Huat-Jason/SWAD_P03_GroupE)
+**Description**: This project showcases software analysis and design principles applied to a mock application. It includes UML diagrams, use cases, and sequence diagrams designed to meet functional and non-functional requirements.
+
+- **Tools**: UML
+
+### 5. [Full Stack Development Project (In Progress)](https://github.com/Koyonari/BannerBites_FSDIT03)
+**Description**: Currently developing a full-stack project called BannerBites, designed for restaurant advertisment cloud-based management. The project includes a web application for advertisment customisation
+
+- **Tech Stack**: AERN (AWS, Express, React, Node.js)
+- **Features**: Stay Tuned!
+---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SPARTAN117312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yjr117/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-rong-yeo-83996b272/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SPARTAN117312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yjr117/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeo-jin-rong/) 
 
 # 💻 Tech Stack:
 ## Front-End Development
