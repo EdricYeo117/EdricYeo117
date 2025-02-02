@@ -38,9 +38,8 @@ On my website you can view all of my projects!
 
 - **Tools**: UML
 
-### 5. [Full Stack Development Project (In Progress)](https://github.com/Koyonari/BannerBites_FSDIT03)
-**Description**: Currently developing a full-stack project called BannerBites, designed for restaurant advertisment cloud-based management. The project includes a web application for advertisment customisation
-
+### 5. [Full Stack Development Project](https://github.com/Koyonari/BannerBites_FSDIT03)
+**Description**: Currently developing a full-stack project called BannerBites, designed for cloud-based advertisment management. It includes WebGazer.js for eye-tracking and heatmap visualisation, grid-cell layout for advertisment management.
 - **Tech Stack**: AERN (AWS, Express, React, Node.js)
 - **Features**: Stay Tuned!
 ---
