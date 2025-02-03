@@ -16,33 +16,33 @@ On my website you can view all of my projects!
 ---
 ## 🌱 Key Projects
 
-### 1. [NutriAid BackEndDev Project](https://github.com/Koyonari/BED2024Apr_P03_T05)
+### 1. [NutriAid BackEndDev Project](https://github.com/EdricYeo117/BED2024Apr_P03_T05)
 **Description**: This backend project aims to connect the underprivelleged and volunteers, facilitating recipe generation and food donation. Designed with scalability in mind, it includes role-based user authentication, secure data storage, and API endpoints for managing dietary data and delivering recommendations.
 
 - **Tech Stack**: Node.js, Express, MongoDB, MSSQL
 - **Features**: Secure role-based user authentication, noSQL and SQL database integration
 
-### 2. [PocketChef Application](https://github.com/enjiawu/MAD24_P02_Team1)
+### 2. [PocketChef Application](https://github.com/EdricYeo117/MAD24_P02_Team1/tree/main)
 **Description**: PocketChef is a mobile app that brings personalized recipe recommendations to your fingertips. It helps users plan meals, track ingredients, and discover recipes based on preferences and available ingredients. Powered by Spoonacular API
 
 - **Tech Stack**: Java (Android Studio)
 - **Features**: Recipe Search, Image Classification, Voice Search
 
-### 3. [MyCondoApp Database Design](https://github.com/Ng-Kai-Huat-Jason/T03_Group1_Database)
+### 5. [Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
+**Description**: Currently developing a full-stack project called BannerBites, designed for cloud-based advertisment management. It includes WebGazer.js for eye-tracking and heatmap visualisation, grid-cell layout for advertisment management.
+- **Tech Stack**: AERN (AWS, Express, React, Node.js)
+- **Features**: Merge-Cell front-end technology, WebGazer.js, Real-Time Updates powered by DynamoDB Streams and WebSocket
+---
+
+### 4. [MyCondoApp Database Design](https://github.com/EdricYeo117/T03_Group1_Database)
 **Description**: This project involves designing a comprehensive database for MyCondoApp, a platform dedicated to property management. The database schema supports user roles, facility booking, maintenance tracking, and notification management.
 
 - **Tech Stack**: MSSQL
 
-### 4. [Software Analysis Design Project](https://github.com/Ng-Kai-Huat-Jason/SWAD_P03_GroupE)
+### 5. [Software Analysis Design Project](https://github.com/EdricYeo117/SWAD_P03_GroupE_Classes)
 **Description**: This project showcases software analysis and design principles applied to a mock application. It includes UML diagrams, use cases, and sequence diagrams designed to meet functional and non-functional requirements.
 
 - **Tools**: UML
-
-### 5. [Full Stack Development Project](https://github.com/Koyonari/BannerBites_FSDIT03)
-**Description**: Currently developing a full-stack project called BannerBites, designed for cloud-based advertisment management. It includes WebGazer.js for eye-tracking and heatmap visualisation, grid-cell layout for advertisment management.
-- **Tech Stack**: AERN (AWS, Express, React, Node.js)
-- **Features**: Stay Tuned!
----
 
 # 💻 Tech Stack:
 ## Front-End Development
