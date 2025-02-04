@@ -16,7 +16,7 @@ On my website you can view all of my projects!
 ---
 ## 🌱 Key Projects
 
-### 3. [Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
+### 1. [Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
 **Description**: Currently developing a full-stack project called BannerBites, designed for cloud-based advertisment management. It includes WebGazer.js for eye-tracking and heatmap visualisation, grid-cell layout for advertisment management.
 - **Tech Stack**: AERN (AWS, Express, React, Node.js)
 - **Features**: Merge-Cell front-end technology, WebGazer.js, Real-Time Updates powered by DynamoDB Streams and WebSocket
