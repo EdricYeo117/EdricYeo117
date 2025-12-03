@@ -6,7 +6,7 @@ Despite so, I still try to learn more about Artificial Intelligence and Cloud Co
 <br>
 📚 Hobbies: Gaming & Gym
 <br>
-🎯 Goals: Financial Stabality 
+🎯 Goals: Financial Stability
 
 📫 How to reach me - edricyeo.jr@gmail.com <br>
 👨‍💻 Visit my website at - https://yeojinrong-portfolio-website.vercel.app/ <br>
