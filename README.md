@@ -1,6 +1,8 @@
 # 💫 About Me:
 My name is Yeo Jin Rong and I'm a passionate student from Ngee Ann Polytechnic for Diploma in Information Technology (N54), with a specialisation in Software Engineering.
 Despite so, I still try to learn more about Artificial Intelligence and Cloud Computing
+
+Currently a Cloud Engineering Intern at Oracle
 <br>
 ✨ Recycling Oxygen since 12/10/2001
 <br>
