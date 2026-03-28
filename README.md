@@ -18,33 +18,42 @@ On my website you can view all of my projects!
 ---
 ## 🌱 Key Projects
 
-### 1. [Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
+### 1. Interactive AI Hologram
+**Description**: Built an interactive AI Hologram showcase during my internship at Oracle, designed for live customer engagements and leadership demonstrations. The system combines large language models, text-to-speech, facial animation, and real-time frontend/backend orchestration to create a conversational digital human experience.
+***Repository private for legal reasons***
+
+- **Tech Stack**: Java, Spring Boot, Oracle Database, Oracle Cloud, Google Cloud TTS, NVIDIA Audio2Face, Unreal Engine
+- **Features**: Real-time conversational AI pipeline, text-to-speech integration, facial animation syncing, SSE-based frontend updates, Oracle AI/DB integration for retrieval and response generation
+
+### 2. AI-Enabled Drone Control and Computer Vision System
+**Description**: Developed an AI-enabled drone system integrating Android-based DJI controller workflows with backend orchestration for remote commands, media capture, and computer vision analysis. The project supports real-time drone operations, photo and video uploads, and AI-based detection pipelines for practical showcase scenarios.
+
+This project consists of three main components:
+- [Phone App](https://github.com/EdricYeo117/OracleDJIDronePhoneApp)
+- [DJI MSDK Controller](https://github.com/EdricYeo117/OracleDJIDroneMSDK)
+- [Python Server](https://github.com/EdricYeo117/OracleIntruderServer))
+
+- **Tech Stack**: Kotlin, Android, DJI Mobile SDK v5, FastAPI, Python, OpenCV, MediaPipe, Oracle Cloud
+- **Features**: Remote drone command execution, Virtual Stick control, media capture and upload workflows, live stream and frame snapshot handling, computer vision pipelines for detection and analysis
+- **Tech Stack**: Kotlin, Android, DJI Mobile SDK v5, FastAPI, Python, OpenCV, MediaPipe, Oracle Cloud
+- **Features**: Remote drone command execution, Virtual Stick control, media capture and upload workflows, live stream/frame snapshot handling, computer vision pipelines for detection and analysis
+
+### 3. [Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
 **Description**: Currently developing a full-stack project called BannerBites, designed for cloud-based advertisment management. It includes WebGazer.js for eye-tracking and heatmap visualisation, grid-cell layout for advertisment management.
 - **Tech Stack**: AERN (AWS, Express, React, Node.js)
 - **Features**: Merge-Cell front-end technology, WebGazer.js, Real-Time Updates powered by DynamoDB Streams and WebSocket
 
-### 2. [PocketChef Application](https://github.com/EdricYeo117/MAD24_P02_Team1/tree/main)
+### 4. [PocketChef Application](https://github.com/EdricYeo117/MAD24_P02_Team1/tree/main)
 **Description**: PocketChef is a mobile app that brings personalized recipe recommendations to your fingertips. It assists users in planning meals, tracking ingredients, and discovering recipes based on preferences and available ingredients, even by taking a picture of a food item. Powered by Spoonacular API
 
 - **Tech Stack**: Java (Android Studio)
 - **Features**: Recipe Search, Image Classification, Voice Search
 
-### 3. [NutriAid BackEndDev Project](https://github.com/EdricYeo117/BED2024Apr_P03_T05)
+### 5. [NutriAid BackEndDev Project](https://github.com/EdricYeo117/BED2024Apr_P03_T05)
 **Description**: This backend project aims to connect the underprivileged and volunteers, facilitating recipe generation and food donation. Designed with scalability in mind, it includes role-based user authentication, secure data storage, and API endpoints for managing dietary data and delivering recommendations.
 
 - **Tech Stack**: Node.js, Express, MongoDB, MSSQL
 - **Features**: Secure role-based user authentication, noSQL and SQL database integration
-
-### 4. [MyCondoApp Database Design](https://github.com/EdricYeo117/T03_Group1_Database)
-**Description**: This project involves designing a comprehensive database for MyCondoApp, a platform dedicated to property management. The database schema supports user roles, facility booking, maintenance tracking, and notification management.
-
-- **Tech Stack**: MSSQL
-
-### 5. [Software Analysis Design Project](https://github.com/EdricYeo117/SWAD_P03_GroupE_Classes)
-**Description**: This project showcases software analysis and design principles applied to a mock application. It includes UML diagrams, use cases, and sequence diagrams designed to meet functional and non-functional requirements.
-
-- **Tools**: UML
----
 
 # 💻 Tech Stack:
 ## Front-End Development
