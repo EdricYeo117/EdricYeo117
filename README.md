@@ -31,12 +31,10 @@ On my website you can view all of my projects!
 This project consists of three main components:
 - [Phone App](https://github.com/EdricYeo117/OracleDJIDronePhoneApp)
 - [DJI MSDK Controller](https://github.com/EdricYeo117/OracleDJIDroneMSDK)
-- [Python Server](https://github.com/EdricYeo117/OracleIntruderServer))
+- [Python Server](https://github.com/EdricYeo117/OracleIntruderServer)
 
 - **Tech Stack**: Kotlin, Android, DJI Mobile SDK v5, FastAPI, Python, OpenCV, MediaPipe, Oracle Cloud
 - **Features**: Remote drone command execution, Virtual Stick control, media capture and upload workflows, live stream and frame snapshot handling, computer vision pipelines for detection and analysis
-- **Tech Stack**: Kotlin, Android, DJI Mobile SDK v5, FastAPI, Python, OpenCV, MediaPipe, Oracle Cloud
-- **Features**: Remote drone command execution, Virtual Stick control, media capture and upload workflows, live stream/frame snapshot handling, computer vision pipelines for detection and analysis
 
 ### 3. [Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
 **Description**: Currently developing a full-stack project called BannerBites, designed for cloud-based advertisment management. It includes WebGazer.js for eye-tracking and heatmap visualisation, grid-cell layout for advertisment management.
