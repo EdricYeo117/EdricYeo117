@@ -179,7 +179,7 @@ This project consists of three main components:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdricYeo117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Edric's GitHub stats" />
+  <img src="https://[github-readme-stats.vercel.app](https://github-stats-extended.vercel.app/)/api?username=EdricYeo117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Edric's GitHub stats" />
 </p>
 
 <!-- Optional: Uncomment this if you also want the github-readme-stats top languages card. -->
@@ -195,4 +195,4 @@ This project consists of three main components:
 
 - Email: edricyeo.jr@gmail.com
 - LinkedIn: [Yeo Jin Rong](https://www.linkedin.com/in/yeo-jin-rong/)
-- Portfolio: [yeojinrong-portfolio-website.vercel.app](https://yeojinrong-portfolio-website.vercel.app/)
+- Portfolio: [edric-yeo.com](https://edric-yeo.com/)
