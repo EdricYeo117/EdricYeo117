@@ -11,7 +11,7 @@ I am currently a Cloud Engineering Intern at Oracle, with interests in Artificia
 🎯 Goals: Financial Stability  
 
 📫 How to reach me - edricyeo.jr@gmail.com  
-👨‍💻 Visit my website at - https://yeojinrong-portfolio-website.vercel.app/  
+👨‍💻 Visit my website at - edric-yeo.com
 
 On my website you can view all of my projects!
 
