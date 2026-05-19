@@ -1,8 +1,8 @@
 # 💫 About Me
 
-My name is Yeo Jin Rong and I'm a graduate from Ngee Ann Polytechnic with a Diploma with Merit in Information Technology (N54), specialising in Software Engineering.
+My name is Yeo Jin Rong and I'm a graduate from Ngee Ann Polytechnic with a Diploma in Information Technology (N54), specialising in Software Engineering.
 
-I am an ex-Cloud Engineering Intern at Oracle, with interests in Artificial Intelligence, Cloud Computing, Full-Stack Development, Computer Vision, and interactive demo systems.
+I am currently a Cloud Engineering Intern at Oracle, with interests in Artificial Intelligence, Cloud Computing, Full-Stack Development, Computer Vision, and interactive demo systems.
 
 <br>
 
@@ -179,7 +179,7 @@ This project consists of three main components:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=EdricYeo117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Edric's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdricYeo117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Edric's GitHub stats" />
 </p>
 
 <!-- Optional: Uncomment this if you also want the github-readme-stats top languages card. -->
