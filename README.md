@@ -1,8 +1,10 @@
-# 💫 About Me
+# Hi, I'm Yeo Jin Rong
 
-My name is Yeo Jin Rong and I'm a graduate from Ngee Ann Polytechnic with a Diploma in Information Technology (N54), specialising in Software Engineering.
+I'm a Software Engineering graduate from Ngee Ann Polytechnic with a Diploma in Information Technology (N54).
 
-I am currently a Cloud Engineering Intern at Oracle, with interests in Artificial Intelligence, Cloud Computing, Full-Stack Development, Computer Vision, and interactive demo systems.
+I'm currently a Cloud Engineering Intern at Oracle, where I work on interactive demo systems involving cloud infrastructure, AI, full-stack development, computer vision, and real-time application workflows.
+
+I enjoy building practical software systems that connect frontend interfaces, backend services, cloud platforms, AI models, and real-world hardware.
 
 <br>
 
@@ -10,10 +12,8 @@ I am currently a Cloud Engineering Intern at Oracle, with interests in Artificia
 📚 Hobbies: Gaming & Gym  
 🎯 Goals: Financial Stability  
 
-📫 How to reach me - edricyeo.jr@gmail.com  
-👨‍💻 Visit my website at - edric-yeo.com
-
-On my website you can view all of my projects!
+📫 Email: edricyeo.jr@gmail.com  
+👨‍💻 Portfolio: [edric-yeo.com](https://edric-yeo.com/)
 
 ---
 
@@ -25,58 +25,111 @@ On my website you can view all of my projects!
 
 ---
 
-## 🌱 Key Projects
+# 📊 GitHub Activity
 
-### 1. Interactive AI Hologram
+## Isometric Activity Calendar
+
+<p align="center">
+  <img src="./metrics.isocalendar.svg" alt="Edric's isometric GitHub activity calendar" />
+</p>
+
+## Languages Activity
+
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Edric's GitHub languages activity" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=EdricYeo117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Edric's GitHub stats" />
+</p>
+
+<!-- Optional: Uncomment this if you also want the github-readme-stats top languages card. -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdricYeo117&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Edric's top languages" />
+</p>
+-->
+
+---
+
+# 🌱 Featured Projects
+
+## 1. Interactive AI Hologram
 
 **Description**: Built an interactive AI Hologram showcase during my internship at Oracle, designed for live customer engagements and leadership demonstrations. The system combines large language models, text-to-speech, facial animation, and real-time frontend/backend orchestration to create a conversational digital human experience.
 
 ***Repository private for legal reasons***
 
-- **Tech Stack**: Java, Spring Boot, Oracle Database, Oracle Cloud, Google Cloud TTS, NVIDIA Audio2Face, Unreal Engine
-- **Features**: Real-time conversational AI pipeline, text-to-speech integration, facial animation syncing, SSE-based frontend updates, Oracle AI/DB integration for retrieval and response generation
+**Tech Stack**: Java, Spring Boot, Oracle Database, Oracle Cloud, Google Cloud TTS, NVIDIA Audio2Face, Unreal Engine
+
+**Features**:
+- Real-time conversational AI pipeline
+- Text-to-speech integration
+- Facial animation syncing
+- SSE-based frontend updates
+- Oracle AI and database integration for retrieval and response generation
 
 ---
 
-### 2. AI-Enabled Drone Control and Computer Vision System
+## 2. AI-Enabled Drone Control and Computer Vision System
 
 **Description**: Developed an AI-enabled drone system integrating Android-based DJI controller workflows with backend orchestration for remote commands, media capture, and computer vision analysis. The project supports real-time drone operations, photo and video uploads, and AI-based detection pipelines for practical showcase scenarios.
 
-This project consists of three main components:
-
+**Repositories**:
 - [Phone App](https://github.com/EdricYeo117/OracleDJIDronePhoneApp)
 - [DJI MSDK Controller](https://github.com/EdricYeo117/OracleDJIDroneMSDK)
 - [Python Server](https://github.com/EdricYeo117/OracleIntruderServer)
 
-- **Tech Stack**: Kotlin, Android, DJI Mobile SDK v5, FastAPI, Python, OpenCV, MediaPipe, Oracle Cloud
-- **Features**: Remote drone command execution, Virtual Stick control, media capture and upload workflows, live stream and frame snapshot handling, computer vision pipelines for detection and analysis
+**Tech Stack**: Kotlin, Android, DJI Mobile SDK v5, FastAPI, Python, OpenCV, MediaPipe, Oracle Cloud
+
+**Features**:
+- Remote drone command execution
+- Virtual Stick control
+- Media capture and upload workflows
+- Live stream and frame snapshot handling
+- Computer vision pipelines for detection and analysis
 
 ---
 
-### 3. [Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
+## 3. [BannerBites Full Stack Development Project](https://github.com/EdricYeo117/BannerBites_FSDIT03)
 
 **Description**: Developed a full-stack project called BannerBites, designed for cloud-based advertisement management. It includes WebGazer.js for eye-tracking and heatmap visualisation, grid-cell layouts for advertisement management, and real-time updates.
 
-- **Tech Stack**: AWS, Express, React, Node.js, DynamoDB, WebSocket
-- **Features**: Merge-cell frontend technology, WebGazer.js eye-tracking, heatmap visualisation, real-time updates powered by DynamoDB Streams and WebSocket
+**Tech Stack**: AWS, Express, React, Node.js, DynamoDB, WebSocket
+
+**Features**:
+- Merge-cell frontend layout technology
+- WebGazer.js eye-tracking
+- Heatmap visualisation
+- Real-time updates powered by DynamoDB Streams and WebSocket
 
 ---
 
-### 4. [PocketChef Application](https://github.com/EdricYeo117/MAD24_P02_Team1/tree/main)
+## 4. [PocketChef Application](https://github.com/EdricYeo117/MAD24_P02_Team1/tree/main)
 
 **Description**: PocketChef is a mobile app that brings personalised recipe recommendations to your fingertips. It assists users in planning meals, tracking ingredients, and discovering recipes based on preferences and available ingredients, including by taking a picture of a food item. Powered by Spoonacular API.
 
-- **Tech Stack**: Java, Android Studio, Spoonacular API
-- **Features**: Recipe search, image classification, voice search
+**Tech Stack**: Java, Android Studio, Spoonacular API
+
+**Features**:
+- Recipe search
+- Image classification
+- Voice search
 
 ---
 
-### 5. [NutriAid BackEndDev Project](https://github.com/EdricYeo117/BED2024Apr_P03_T05)
+## 5. [NutriAid Backend Development Project](https://github.com/EdricYeo117/BED2024Apr_P03_T05)
 
 **Description**: This backend project aims to connect the underprivileged and volunteers, facilitating recipe generation and food donation. Designed with scalability in mind, it includes role-based user authentication, secure data storage, and API endpoints for managing dietary data and delivering recommendations.
 
-- **Tech Stack**: Node.js, Express, MongoDB, MSSQL
-- **Features**: Secure role-based user authentication, NoSQL and SQL database integration
+**Tech Stack**: Node.js, Express, MongoDB, MSSQL
+
+**Features**:
+- Secure role-based user authentication
+- NoSQL and SQL database integration
+- API endpoints for dietary data and recommendation workflows
 
 ---
 
@@ -162,36 +215,7 @@ This project consists of three main components:
 
 ---
 
-# 📊 GitHub Activity
-
-## Isometric Activity Calendar
-
-<p align="center">
-  <img src="./metrics.isocalendar.svg" alt="Edric's isometric GitHub activity calendar" />
-</p>
-
-## Languages Activity
-
-<p align="center">
-  <img src="./metrics.languages.svg" alt="Edric's GitHub languages activity" />
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=EdricYeo117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Edric's GitHub stats" />
-</p>
-
-<!-- Optional: Uncomment this if you also want the github-readme-stats top languages card. -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdricYeo117&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Edric's top languages" />
-</p>
--->
-
----
-
-## 📫 Contact
+# 📫 Contact
 
 - Email: edricyeo.jr@gmail.com
 - LinkedIn: [Yeo Jin Rong](https://www.linkedin.com/in/yeo-jin-rong/)
